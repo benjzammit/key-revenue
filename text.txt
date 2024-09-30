@@ -1,0 +1,4 @@
+# API configuration
+INSTAGRAM_API_URL = "https://instagram-scraper-api3.p.rapidapi.com/user_reels"
+INSTAGRAM_API_KEY = "d8d971f9bemsh5c96243d1184e59p11bed8jsn4960cb93f170"
+INSTAGRAM_API_HOST = "instagram-scraper-api3.p.rapidapi.com"
